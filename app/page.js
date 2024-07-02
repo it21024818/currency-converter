@@ -7,7 +7,6 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <h1>Currency Converter</h1>
-      {/* <CurrencyConverter /> */}
       <TransferHistory />
     </main>
   );
