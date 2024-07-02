@@ -24,12 +24,7 @@
    ```bash
    npm install
 
-3. Create a .env file and add the following:
-    ```bash
-    PORT=3000
-    MONGO_URI=mongodb+srv://it21024818:YLYjJEZ8AwCuvBlU@currency-converter-clus.bcmx6yf.mongodb.net/?retryWrites=true&w=majority&appName=currency-converter-cluster
-    EXCHANGE_RATE_API=https://v6.exchangerate-api.com/v6/4d72f497a38a1606751b17ee
-    SERVER_URL=http://localhost:5000
+3. Create a .env file and add the provided content
 
 4. Start the development server:
     ```bash
@@ -41,5 +36,5 @@
 
 6. Open http://localhost:3000 to view the application.
 
-## Live Demo
+
 
